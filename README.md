@@ -2,14 +2,6 @@
 <h1 >Search API APP </h1>
 
 <p>Projeto para uma busca no Google com uma API node e um cliente Flutter.</p>
-</div>
-<p align="center">
- <a href="#Sobre">• Sobre o Projeto</a> •
- <a href="#Pages">Pages</a> • 
- <a href="#Features">Features</a> • 
- <a href="#Ferramentas">Ferramentas</a> • 
- <a href="#Demonstração">Demonstração</a> • 
-</p>
 
 ## 📖 O desafio:
 
@@ -56,8 +48,8 @@ Não deve ser exibido mais nada da página do google. Todas as outras informaç�
 - <a>Postman</a>
 
 <p align="center">
-  <img src="images\back1.png" width="414" height="736" title="Postman1">
-  <img src="images\back2.png" width="414" height="736" title="Postman2">
+  <img src="images\back1.png" width="736 " height="414" title="Postman1">
+  <img src="images\back2.png" width="736 " height="414" title="Postman2">
 </p>
 
 
